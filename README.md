@@ -218,3 +218,7 @@ Load Balancing in AWS is a very complete topic and I hope this section gave yo
 [Testing Serverless Apps with localstack](https://www.notion.so/Testing-Serverless-Apps-with-localstack-33b8ae7423ad4bccb80e56c9f3667df4)
 
 [Other Useful AWS Services](https://www.notion.so/Other-Useful-AWS-Services-c9ac25dce83044b6bcd465fe9a05105a)
+
+# S3
+
+[AWS Bucket Enable Public Access Policy](https://www.notion.so/AWS-Bucket-Enable-Public-Access-Policy-44be178121d54f4b9d695a869f6ecc41)
