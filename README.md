@@ -222,3 +222,7 @@ Load Balancing in AWS is a very complete topic and I hope this section gave yo
 # S3
 
 [AWS Bucket Enable Public Access Policy](https://www.notion.so/AWS-Bucket-Enable-Public-Access-Policy-44be178121d54f4b9d695a869f6ecc41)
+
+# AWS - delete all cloud services
+
+[Delete All Cloud Services](https://jhooq.com/terraform-nuke/)
