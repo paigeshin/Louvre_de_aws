@@ -4,6 +4,10 @@
 
 [Article - Lambda Pricing](https://www.simform.com/aws-lambda-pricing/)
 
+[Prevent Cold Start](https://lumigo.io/blog/this-is-all-you-need-to-know-about-lambda-cold-starts/)
+
+[Reduce AWS Lambda Latency](https://aithority.com/it-and-devops/cloud/5-ways-to-prevent-aws-lambda-cold-starts/)
+
 # EC2 Basics
 
 [Introduction - EC2](https://www.notion.so/Introduction-EC2-7ea4e15857ce485f9eef2ac5b359d77e)
